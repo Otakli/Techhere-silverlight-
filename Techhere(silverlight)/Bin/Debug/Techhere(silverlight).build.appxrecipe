@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-OUNQ7D6</Machine>
+    <WindowsUser>Radon</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>52c7ad1b-1a1c-441c-8083-4f9a016f2734</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Radon</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Radon\documents\visual studio 2015\Projects\Techhere%28silverlight%29\Techhere%28silverlight%29\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Radon\documents\visual studio 2015\Projects\Techhere%28silverlight%29\Techhere%28silverlight%29\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Radon\documents\visual studio 2015\Projects\Techhere%28silverlight%29\Techhere%28silverlight%29\Bin\Debug\Techhere%28silverlight%29.dll">
+      <PackagePath>Techhere%28silverlight%29.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radon\documents\visual studio 2015\Projects\Techhere%28silverlight%29\Techhere%28silverlight%29\ServiceReferences.ClientConfig">
+      <PackagePath>ServiceReferences.ClientConfig</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radon\documents\visual studio 2015\Projects\Techhere%28silverlight%29\Techhere%28silverlight%29\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radon\documents\visual studio 2015\Projects\Techhere%28silverlight%29\Techhere%28silverlight%29\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radon\documents\visual studio 2015\Projects\Techhere%28silverlight%29\Techhere%28silverlight%29\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radon\documents\visual studio 2015\Projects\Techhere%28silverlight%29\Techhere%28silverlight%29\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radon\documents\visual studio 2015\Projects\Techhere%28silverlight%29\Techhere%28silverlight%29\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radon\documents\visual studio 2015\Projects\Techhere%28silverlight%29\Techhere%28silverlight%29\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radon\documents\visual studio 2015\Projects\Techhere%28silverlight%29\Techhere%28silverlight%29\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radon\documents\visual studio 2015\Projects\Techhere%28silverlight%29\Techhere%28silverlight%29\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radon\documents\visual studio 2015\Projects\Techhere%28silverlight%29\Techhere%28silverlight%29\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radon\documents\visual studio 2015\Projects\Techhere%28silverlight%29\Techhere%28silverlight%29\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radon\documents\visual studio 2015\Projects\Techhere%28silverlight%29\Techhere%28silverlight%29\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radon\documents\visual studio 2015\Projects\Techhere%28silverlight%29\Techhere%28silverlight%29\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radon\documents\visual studio 2015\Projects\Techhere%28silverlight%29\Techhere%28silverlight%29\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radon\documents\visual studio 2015\Projects\Techhere%28silverlight%29\Techhere%28silverlight%29\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radon\documents\visual studio 2015\Projects\Techhere%28silverlight%29\Techhere%28silverlight%29\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
